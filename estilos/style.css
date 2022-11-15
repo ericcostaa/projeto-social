@@ -26,6 +26,14 @@ main{
    
 }
 
+#tela {
+    position: relative;
+    top: 80px;
+    left: 23px;
+    width: 269px;
+    height: 471px;
+}
+
 #tel {
     position: absolute;
     top: 50%;
@@ -35,4 +43,9 @@ main{
     width: 311px;
     background-color: brown;
     background: url(../imagens/frame-iphone.png) no-repeat
+}
+
+#redes-socias{
+
+    background-color: aqua;
 }
